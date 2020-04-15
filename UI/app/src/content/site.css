@@ -1,0 +1,15 @@
+
+.App .header { height: 100px; width: 100%; background-color: #282c34; color: #ffffff; font-size: 12px;}
+
+.content { width: 80%; margin: 0 auto; background-color: #fff; height: 100%; padding: 10px 0 10px 0;  }
+.content .heading {text-align: center; padding: 10px;}
+
+.content .table { width: 90%; padding: 0; border-bottom: 1px solid;}
+.content .table thead tr th { background-color: lightslategray; width: 30%; cursor: pointer; padding: 5px; }
+.content .table tbody tr td { padding:5px;}
+.content .table tbody tr:hover { cursor: default; background-color: #9d9fa3; }
+.border-bottom { border-bottom: 1px solid; padding:5px; }
+
+
+.content .search{  width: 90%; margin: 10px 0;}
+.content .search input { width: 50%; padding: 10px; border-radius: 5px; font-size: 20px; color: #828486; border: 1px solid #282c34;  }
